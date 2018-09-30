@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to Guessing Game
 
-You can use the [editor on GitHub](https://github.com/zhongqi1112/Guessing-Game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This program will continuously ask the user to guess the number of files in the current directory, until they guess the correct number. The user will be informed if their guess is too high or too low. Once the user guesses the correct number of files in the current directory they should be congratulated.
