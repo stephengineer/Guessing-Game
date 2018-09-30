@@ -1,3 +1,3 @@
-## Welcome to Guessing Game
-
-This program will continuously ask the user to guess the number of files in the current directory, until they guess the correct number. The user will be informed if their guess is too high or too low. Once the user guesses the correct number of files in the current directory they should be congratulated.
+# Guessing Game
+**Date and time of makefile:**: Mon Sep 30 12:21:35 EDT 2018
+**Line of code:** 34
