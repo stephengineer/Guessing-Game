@@ -1,8 +1,8 @@
 all: README.md
 
 README.md: guessinggame.sh 
-	echo  "# learn_bash \n" > README.md
+	echo  "# Guessing Game \n" > README.md
 	echo  "**Date and time of makefile:** $$(date) \n"  >> README.md
-	echo  "**Num of loc:** $$(wc -l < guessinggame.sh) \n" >> README.md
+	echo  "**Line of code:** $$(wc -l < guessinggame.sh) \n" >> README.md
 clean:
 	rm README.md
